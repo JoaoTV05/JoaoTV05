@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Estrutura do repositorio
+Estrutura do repositório
 
-/academicos --> projetos da faculdade
+/academicos --> projetos da faculdade  
 /pessoal --> projetos pessoais
