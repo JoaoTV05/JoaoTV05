@@ -3,3 +3,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+Estrutura do repositorio
+
+/academicos --> projetos da faculdade
+/pessoal --> projetos pessoais
